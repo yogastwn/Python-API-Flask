@@ -9,8 +9,11 @@ greenlet==3.1.1
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
+load-dotenv==0.1.0
 MarkupSafe==3.0.2
 mysql-connector-python==9.1.0
+PyMySQL==1.1.1
+python-dotenv==1.0.1
 requests==2.32.3
 SQLAlchemy==2.0.36
 typing_extensions==4.12.2
